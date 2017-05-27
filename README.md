@@ -1,16 +1,17 @@
-#DimSum.js NYC
-##Let us all meet and eat
+# DimSum.js NYC
 
-###Where
+## Let us all meet and eat
+
+### Where
 TBD
 
-###When
+### When
 ???
 
-###Har Gow && Sui Mei?
+### Har Gow && Sui Mei?
 Yes please
 
-###Tickets
+### Tickets
 
 SOON
 
