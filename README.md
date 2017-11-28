@@ -16,3 +16,6 @@ Yes please
 SOON
 
 ![OMNOM](https://dl.dropboxusercontent.com/u/7351705/gifs/omnomnom/nom-adventure-time.gif)
+
+### But I don't JavaScript!
+I don't make dimsum... sa'll good
