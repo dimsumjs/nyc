@@ -3,10 +3,10 @@
 ## Let us all meet and eat
 
 ### Where
-TBD
+We go to a new location every month in Brooklyn, Manhattan, or Queens!
 
 ### When
-???
+See https://github.com/dimsumjs/nyc/issues for this month's schedule and venue
 
 ### Har Gow && Sui Mei?
 Yes please
@@ -15,7 +15,11 @@ Yes please
 
 SOON
 
-![OMNOM](https://dl.dropboxusercontent.com/u/7351705/gifs/omnomnom/nom-adventure-time.gif)
+OMNOM
 
 ### But I don't JavaScript!
 I don't make dimsum... sa'll good
+
+### How do I contact the organizers?
+
+We have a slack channel: #dimsumjs on BoroJS Slack
